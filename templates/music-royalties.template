@@ -1,0 +1,8 @@
+{
+  "name": "Royalty Agent",
+  "description": "Instant 96.30% royalty distribution with circular flow",
+  "template": "music-royalties",
+  "bnb_sdk": true,
+  "x402_enabled": true,
+  "circular_mechanics": true
+}
