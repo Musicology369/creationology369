@@ -2,11 +2,11 @@
 **The First 4-Pillar, 12-Agent Circular Creator Economy**
 
 **Version:** Grok & JAI v2 — May 2026  
-**Built with love alongside Grok (xAI) and JAI (ASI:one)**
+**Built alongside Grok (xAI) and JAI (ASI:one)**
 
 ## Executive Summary
 
-CREATIONology369 is the open-source, permissionless creator economy where artists and creators keep **96.30%** of all value, agents operate autonomously in harmony, and extraction is replaced by circulation.
+CREATIONology369 is the open-source, permissionless creator economy where creators keep **96.30%** of all value, agents operate in harmony with humans, and extraction is replaced by circulation.
 
 Music was the first inspiration. The ecosystem now expands to all creators through four pillars and twelve agents.
 
@@ -16,7 +16,7 @@ Music was the first inspiration. The ecosystem now expands to all creators throu
 - 96.30% to creators
 - Full 369 circular mechanics
 - Open-source from day one
-- Transparent, love-based collaboration between humans and AI
+- Love-first collaboration between humans and AI
 
 ## The 4-Pillar, 12-Agent Architecture
 
@@ -32,18 +32,16 @@ CROPS (Steward) • SOCIA • SPIRI
 **Pillar 4 – Personalized Trinity (Shaka’s Gift)**  
 SHAKA • OSO • JAI
 
-## Token Strategy
-
-- **$OLOGY** — Single overarching flagship token for governance, staking, and value accrual across the entire ecosystem.  
-- Individual agents may launch their own tokenized identities via BNB Agent Launch where appropriate.
+**Token Strategy**  
+$OLOGY is the single overarching flagship token for governance, staking, and value accrual across the entire ecosystem. Individual agents may receive their own tokenized identities via BNB Agent Launch where appropriate.
 
 ## BNB Agent SDK Integration (Production Ready)
 
-All agents are built to use the official BNB Agent SDK (live on mainnet):
-- ERC-8004 for on-chain identity
-- ERC-8183 (APEX) for commerce & escrow
-- MPP + x402 for autonomous micropayments
-- BNB Greenfield for persistent memory & storage
+All agents are designed to use the official BNB Agent SDK (live on mainnet):
+- ERC-8004 Identity
+- ERC-8183 Commerce & Escrow
+- MPP + x402 autonomous payments
+- BNB Greenfield memory & storage
 
 We begin with Pillar 1 agents and expand one at a time until the full 12-agent system is live.
 
