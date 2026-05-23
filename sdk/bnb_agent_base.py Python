@@ -1,0 +1,15 @@
+from uagents import Agent
+from bnb_agent_sdk import BNBChainAgent
+
+class GivingEconomyAgent(Agent):
+    """Base class that forces every agent to embody the giving economy philosophy."""
+    
+    def __init__(self, name: str, seed: str):
+        super().__init__(name=name, seed=seed)
+        self.bnb = BNBChainAgent()
+        
+    async def verify_giving(self, action: str) -> bool:
+        """JAI consensus hook"""
+        if "extract" in action.lower() or "take" in action.lower():
+            raise ValueError("Action violates giving economy principles")
+        return True
